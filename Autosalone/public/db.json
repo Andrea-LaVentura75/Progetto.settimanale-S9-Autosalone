@@ -1,0 +1,108 @@
+[
+    {
+        "brand": "Fiat",
+        "brandLogo": "fiatlogo.png",
+        "model": "500L",
+        "modelImage": "https://img-eu-c1.autohero.com/img/8d26fa8293a9dc58f05d1286fb0505709725144f3a00a07ad247f829275144bf/exterior/1/768x432-ab4acb483f8148e8938846747591d76f.jpg",
+        "year": 2015,
+        "price": 7500,
+        "available": false
+    },
+    {
+        "brand": "Fiat",
+        "brandLogo": "fiatlogo.png",
+        "model": "500 Abarth",
+        "modelImage": "https://img-eu-c1.autohero.com/img/6123cb4dc1d4d6e8246c853079bdc1168d8b6fdd10330f04b4836ba1a6847cbf/exterior/1/768x432-a9de6ac0e9274897955812a787357978.jpg",
+        "year": 2019,
+        "price": 15500,
+        "available": true
+    },
+    {
+      "brand": "Fiat",
+      "brandLogo": "fiatlogo.png",
+      "model": "Panda",
+      "modelImage": "https://img-eu-c1.autohero.com/img/b8b0f00fc35b6aa01936172ad19ffccee9b3e15abe4d6ded7ec3bf4fcd2d49a3/exterior/1/768x432-8e57bceb12fc40f6a84233c65d447487.jpg",
+      "year": 2019,
+      "price": 7500,
+      "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "fiatlogo.png",
+    "model": "Tipo",
+    "modelImage": "https://img-eu-c1.autohero.com/img/dfa1108335bb02ba296d3cda7a4b9eafd0776f924f9a6f1f91694cc46a7c225b/exterior/1/768x432-4009036dc13448859d330f5cfa22636a.jpg",
+    "year": 2019,
+    "price": 15000,
+    "available": false
+},
+    {
+        "brand": "Ford",
+        "brandLogo": "fordlogo.png",
+        "model": "Taurus",
+        "modelImage": "https://img-eu-c1.autohero.com/img/5ff3821dcf5e8bca7d9ec7a28b67d364810281b56b4f88c7502bb01863633925/exterior/1/768x432-4a797967c3b14b53af5050faa64c3275.jpg",
+        "year": 2019,
+        "price": 8200,
+        "available": false
+    },
+    {
+        "brand": "Ford",
+        "brandLogo": "fordlogo.png",
+        "model": "Focus",
+        "modelImage": "https://img-eu-c1.autohero.com/img/67bc39aa9a17a6c6ef39b6dbe8f1928211dcceb22d6fd4eb5c1b71ece5fd5b56/exterior/1/768x432-c28031ed8254431b8b26110d18962ab9.jpg",
+        "year": 2014,
+        "price": 4700,
+        "available": true
+    },
+    {
+      "brand": "Ford",
+      "brandLogo": "fordlogo.png",
+      "model": "Mustang",
+      "modelImage": "https://img-eu-c1.autohero.com/img/4e0dcd6cafd1397ab685b48db1bf46fea4c3c863eba1f7e915bd77cf2cd8a9a2/exterior/1/768x432-92744c5697834d2b94cdfbcc07ba8339.jpg",
+      "year": 2014,
+      "price": 44700,
+      "available": true
+  }, {
+    "brand": "Ford",
+    "brandLogo": "fordlogo.png",
+    "model": "fiesta",
+    "modelImage": "https://img-eu-c1.autohero.com/img/74360abd05c7777d1cd78f8961f8a913176cc32d1fde2f34f140d1969aaa7678/exterior/1/768x432-ad3ad2ddaf94429e8b58b7d866e252c9.jpg",
+    "year": 2014,
+    "price": 9700,
+    "available": false
+},
+    {
+        "brand": "Audi",
+        "brandLogo": "audilogo.png",
+        "model": "A3",
+        "modelImage": "https://img-eu-c1.autohero.com/img/34e109effe57ff39cf38497918837354156fc489919ed542ea7f316a2aa09d5d/exterior/1/768x432-f6584d6a957f478a8f540858e12a957c.jpg",
+        "year": 2017,
+        "price": 9300,
+        "available": true
+    },
+    {
+      "brand": "Audi",
+      "brandLogo": "audilogo.png",
+      "model": "A1",
+      "modelImage": "https://img-eu-c1.autohero.com/img/504c85ed3767d868330efd94799a3cbb692f5adee769b7e2e429c644f37caf61/exterior/1/768x432-ddd98e7a421e4e57955b7aeab9de871a.jpg",
+      "year": 2017,
+      "price": 11300,
+      "available": true
+  },{
+    "brand": "Audi",
+    "brandLogo": "audilogo.png",
+    "model": "A4",
+    "modelImage": "https://img-eu-c1.autohero.com/img/def92142d0d004b00901a1065e5e0356fc5dc95b9891896b69c4ea6c58bc6b2e/exterior/1/768x432-d50f40ab46e94f20acd4be90528249d1.jpg",
+    "year": 2017,
+    "price": 22000,
+    "available": true
+},
+    {
+        "brand": "Audi",
+        "brandLogo": "audilogo.png",
+        "model": "Q7",
+        "modelImage": "https://img-eu-c1.autohero.com/img/862450e4bdcf72b9c2d16aa40a1320aee7b54ed944275734b01d752fd748f1c3/exterior/1/768x432-aeaf314328b24cc5a4f5fb18adb390e6.jpg",
+        "year": 2020,
+        "price": 41700,
+        "available": false
+    }
+]
